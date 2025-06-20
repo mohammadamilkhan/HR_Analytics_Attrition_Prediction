@@ -1,4 +1,5 @@
-#  Project Report: HR Analytics Prediction
+#  HR Analytics Prediction
+![image](https://github.com/user-attachments/assets/1de11d65-96aa-47bf-9cd1-937e4e80e257)
 
 ## 1. Objective
 The primary goal of this project is to analyze employee data to understand factors that influence **employee attrition** — the departure of employees from an organization. The analysis aims to:
